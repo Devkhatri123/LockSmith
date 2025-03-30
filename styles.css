@@ -427,8 +427,9 @@ nav ul li a.active:after {
 }
 
 .assessment-table {
-    border-collapse: collapse;
-     margin: 0 auto;
+  border-collapse: collapse;
+    margin: 0 auto 28px auto;
+    max-width: 828px;
   }
   
   .assessment-table th {
